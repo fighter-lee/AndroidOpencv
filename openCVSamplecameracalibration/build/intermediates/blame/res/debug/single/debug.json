@@ -4,8 +4,20 @@
         "source": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplecameracalibration\\src\\main\\res\\layout\\camera_calibration_surface_view.xml"
     },
     {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplecameracalibration\\build\\intermediates\\res\\merged\\debug\\menu_calibration.xml.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplecameracalibration\\src\\main\\res\\menu\\calibration.xml"
+    },
+    {
         "merged": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplecameracalibration\\build\\intermediates\\res\\merged\\debug\\menu_calibration.xml.flat",
         "source": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplecameracalibration\\src\\main\\res\\menu\\calibration.xml"
+    },
+    {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplecameracalibration\\build\\intermediates\\res\\merged\\debug\\layout_camera_calibration_surface_view.xml.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplecameracalibration\\src\\main\\res\\layout\\camera_calibration_surface_view.xml"
+    },
+    {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplecameracalibration\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplecameracalibration\\src\\main\\res\\drawable\\icon.png"
     },
     {
         "merged": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplecameracalibration\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",

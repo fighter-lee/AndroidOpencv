@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSampleimagemanipulations\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSampleimagemanipulations\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSampleimagemanipulations\\build\\intermediates\\res\\merged\\debug\\layout_image_manipulations_surface_view.xml.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSampleimagemanipulations\\src\\main\\res\\layout\\image_manipulations_surface_view.xml"
+    },
+    {
         "merged": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSampleimagemanipulations\\build\\intermediates\\res\\merged\\debug\\layout_image_manipulations_surface_view.xml.flat",
         "source": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSampleimagemanipulations\\src\\main\\res\\layout\\image_manipulations_surface_view.xml"
     },

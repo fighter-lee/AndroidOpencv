@@ -1,6 +1,10 @@
 {
     "logs": [
         {
+            "outputFile": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVTutorial2MixedProcessing\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        },
+        {
             "outputFile": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVTutorial2MixedProcessing\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
             "map": []
         }

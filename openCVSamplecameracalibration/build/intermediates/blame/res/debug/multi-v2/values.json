@@ -21,6 +21,28 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplecameracalibration\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplecameracalibration\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,12,5,9,10,7,11,14,13,8,15,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "120,59,656,176,390,494,284,585,766,712,335,813,229",
+                        "endColumns": "54,59,54,51,102,89,49,69,45,52,53,51,53",
+                        "endOffsets": "170,114,706,223,488,579,329,650,807,760,384,860,278"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "345,400,460,515,567,670,760,810,880,926,979,1033,1085",
+                        "endColumns": "54,59,54,51,102,89,49,69,45,52,53,51,53",
+                        "endOffsets": "395,455,510,562,665,755,805,875,921,974,1028,1080,1134"
+                    }
+                }
+            ]
         }
     ]
 }

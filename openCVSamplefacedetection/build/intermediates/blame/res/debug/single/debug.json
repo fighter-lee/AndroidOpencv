@@ -1,11 +1,23 @@
 [
     {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplefacedetection\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout_face_detect_surface_view.xml.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplefacedetection\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    },
+    {
         "merged": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw_lbpcascade_frontalface.xml.flat",
         "source": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
     },
     {
         "merged": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout_face_detect_surface_view.xml.flat",
         "source": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplefacedetection\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    },
+    {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw_lbpcascade_frontalface.xml.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
     },
     {
         "merged": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",

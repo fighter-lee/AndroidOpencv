@@ -3,6 +3,10 @@
         {
             "outputFile": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVLibrary340\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
             "map": []
+        },
+        {
+            "outputFile": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVLibrary340\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
         }
     ]
 }

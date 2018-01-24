@@ -4,6 +4,14 @@
         "source": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVTutorial2MixedProcessing\\src\\main\\res\\layout\\tutorial2_surface_view.xml"
     },
     {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVTutorial2MixedProcessing\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVTutorial2MixedProcessing\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVTutorial2MixedProcessing\\build\\intermediates\\res\\merged\\debug\\layout_tutorial2_surface_view.xml.flat",
+        "source": "D:\\develop\\code\\workspace\\AndroidOpencv\\openCVTutorial2MixedProcessing\\src\\main\\res\\layout\\tutorial2_surface_view.xml"
+    },
+    {
         "merged": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVTutorial2MixedProcessing\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
         "source": "H:\\android\\code\\workspace\\openCv\\OpenCV-android-sdk\\java\\openCVTutorial2MixedProcessing\\src\\main\\res\\drawable\\icon.png"
     }
