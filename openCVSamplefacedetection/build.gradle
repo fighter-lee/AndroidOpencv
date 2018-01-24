@@ -13,6 +13,11 @@ android {
             moduleName "detection_based_tracker"
         }
     }
+    externalNativeBuild {
+        cmake {
+            path 'CMakeLists.txt'
+        }
+    }
 
     buildTypes {
         release {
